@@ -51,7 +51,7 @@ Our results demonstrate that intelligence can be "squeezed" into pure, determini
 
 Spontaneous Circular Embedding
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/6f5ad4d4-3dfc-4b5f-944e-11b249be15e4" />
+<img width="700" height="400" alt="image" src="https://github.com/Maxenonyme/C.L.E.A.R/blob/main/Assets/modulocircle.png?raw=true" />
 
 
 
@@ -60,7 +60,7 @@ Spontaneous Circular Embedding
 
 Perfect Anti-Diagonal Attention
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/e4d5d00d-46d3-4229-bc41-1bf2667d12d4" />
+<img width="700" height="400" alt="image" src="https://github.com/Maxenonyme/C.L.E.A.R/blob/main/Assets/matriceattentionmirroire.png?raw=true" />
 
 
 
@@ -69,7 +69,7 @@ Perfect Anti-Diagonal Attention
 
 Periodic Wave-Function $\Psi(x) \approx \sin(\omega x + \phi)$
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1846e436-338f-48a3-8c96-1f5be4078a95" />
+<img width="700" height="400" alt="image" src="https://github.com/Maxenonyme/C.L.E.A.R/blob/main/Assets/Figure_1.png?raw=true" />
 
 
 
