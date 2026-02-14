@@ -1,7 +1,6 @@
 🏗️ C.L.E.A.R. Architecture: The Subtractive Intelligence Framework
 ===================================================================
 
-> **Official Research Track:** [Subtractive Intelligence and the Emergence of Periodic Logical Kernels](https://www.google.com/search?q=https://zenodo.org/communities/sirg)
 >
 > **Scientific DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18636541.svg)](https://doi.org/10.5281/zenodo.18637005)
 >
